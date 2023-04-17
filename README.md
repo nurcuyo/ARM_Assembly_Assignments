@@ -1,4 +1,4 @@
-# ARM_Assembly_Assignments
+# ARM Assembly Assignments
 Set of assignments coded in ARM Assembly
 
 ## pa_1
